@@ -55,6 +55,6 @@ document.querySelector("#button_2").onclick = function() {
 // }
 let window_size = document.documentElement.clientHeight;
 window_size = window_size - 100;
-max_schetchik = window_size / 60;
-max_schetchik = max_schetchik - 3;
+max_schetchik = window_size / 65;
+max_schetchik = max_schetchik - 4;
 console.log(window_size);

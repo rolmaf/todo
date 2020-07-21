@@ -1,13 +1,13 @@
 body {
     background: linear-gradient(to bottom , #B0E2FF, #6CA6CD, #008B8B) repeat;
-    height: 100vh;
+    max-height: 100vh;
 }   
 .all {
     text-align: center;
     margin: auto;
     max-width: 400px;
     background-color: white;
-    height: 92vh;
+    height: 97vh;
     box-shadow:0 0 10px black;
     font-family: 'Bad Script', cursive;
 }
